@@ -99,7 +99,7 @@ public class Main {
         boolean exit = false;
 
         System.out.println("===========================================");
-        System.out.println("       WELCOME TO THE CHAT APP");
+        System.out.println("       WELCOME TO THE REGISTRATION PAGE    ");
         System.out.println("===========================================\n");
 
         while (!exit) {
